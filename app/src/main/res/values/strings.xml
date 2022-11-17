@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scouting</string>
+    <string name="web_client_id">449884864281-5gbgb46q5cev2gm2ntatufh39kkkjvt2.apps.googleusercontent.com</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="btnGuarda">Guardar</string>
+    <string name="menu_player">Nuevo Registro</string>
+    <string name="hint_buscar">Buscar</string>
+</resources>
